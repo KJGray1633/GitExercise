@@ -4,5 +4,6 @@ public class GitExercise {
         System.out.println("Hi how are you?");
         System.out.println("Yet another line");
         System.out.println("We are adding another line...");
+        System.out.println("I created branch 'other'");
     }
 }
